@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"UR3",1," Arduino Uno R3"
+"UPCF",1," 8-port I2C expander"
+"RRest1, RRest2, RRest3, RRest4",4,"220 Ω Resistor"
+"DLED1, DLED2, DLED3, DLED4",4,"Red LED"
+"SPbutton1, S1, S2, S3",4," Pushbutton"
+"RPB1, RPB2, RPB3, RPB4",4,"10 kΩ Resistor"
+"R4, R5",2,"4.7 kΩ Resistor"
